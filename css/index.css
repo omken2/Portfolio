@@ -1,0 +1,224 @@
+body {
+    font-family: "TBUDゴシック R";
+    line-height: 1.8em;
+    letter-spacing: 0.2em;
+}
+
+video.video {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    top: auto;
+    min-width: 100%;
+    min-height: 100%;
+    width: 100%;
+    height: auto;
+}
+.scroll {
+    display: none;
+}
+.main {
+    height: auto;
+    width: auto;
+}
+
+#con1 {
+    height: auto;
+    min-height: 100vh;
+    width: 100%;
+    margin-bottom: 10%;
+    margin-top: 5%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+#footer {
+    height: 100%;
+    font-size: x-small;
+    color: #fff;
+    background-color: #ff664c;
+    margin-top: 10%;
+}
+
+#prof-p {
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    color: #FFF;
+    margin-left: 100px;
+    padding-left: 3%;
+}
+
+#prof-1 {
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    color: #FFF;
+    font-size: xx-large;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+#link-1 {
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    color: #FFF;
+    font-size: xx-large;
+    margin-left: 3%;
+    margin-top: 5%;
+}
+
+#prof-con {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    margin-left: 3%;
+    margin-right: 5%;
+}
+
+#prof {
+    background-color: #FF664C;
+    height: 200%;
+    min-width: 100%;
+    margin-bottom: 5%;
+    padding-left: 5%;
+}
+
+#name {
+    margin-bottom: 20px;
+}
+
+#prof-img {
+    margin-bottom: 20%;
+}
+
+#hed {
+    height: 1500px;
+    width: auto;
+}
+
+.work-1 {
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    margin-left: 5%;
+    margin-top: 5%;
+    color: #424242;
+}
+
+#work-title {
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    margin-left: 3%;
+    margin-top: 5%;
+    color: #424242;
+}
+
+.banner {
+    margin: auto;
+}
+
+.menu {
+    margin-bottom: 30px;
+}
+
+.smart {
+    display: none;
+}
+
+.banner h1 {
+    color: #666;
+}
+
+.banner:hover {
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    filter: none;
+    transform: scale(1.01);
+    -webkit-transform: scale(1.01);
+    -moz-transform: scale(1.01);
+    -o-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    -webkit-transition: all 0.05s li;
+    nea */r;
+    transition: all 0.05s linear;
+    -webkit-transition: all 0.05s linear;
+    */ -moz-transition: all 0.05s linear;
+    ;
+    */ -o-transition: all 0.05s linear;
+    -ms-transition: all 0.05s linear;
+}
+
+#work-1:hover {
+    text-decoration: none;
+    border: none;
+}
+
+
+.hed {
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    float: left;
+}
+.hed-top {
+    font-size: large;
+}
+.navbar-inner {
+    background-color: rgba(252, 252, 252, 0.5);
+    background-image: none;
+}
+#filter h4 {
+    margin-left: 3%;
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+}
+.cate_meny {
+    font-size: small;
+    font-family: "TBUDゴシック R", Arial, Helvetica, sans-serif;
+    margin-left: 3%;
+    margin-bottom: 1%;
+}
+.btn-link {
+    color: #999;
+}
+.btn-link:focus,
+.btn-link:hover,
+btn-link:active {
+    color: #666;
+    text-decoration: none;
+}
+.center {
+    padding: 25%;
+}
+#link {
+    background-color: #FF664C;
+    height: 200%;
+    min-width: 100%;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+.link-con {
+    margin-top: 3%;
+    margin-bottom: 10%;
+}
+#facebook {
+    margin-bottom: 5%;
+}
+#labo {
+    margin-bottom: 5%;
+}
+.banner-link{
+    max-width: 65%;
+}
+.banner-link:hover {
+    -webkit-filter: grayscale(0%);
+    -moz-filter: grayscale(0%);
+    filter: none;
+    transform: scale(1.01);
+    -webkit-transform: scale(1.01);
+    -moz-transform: scale(1.01);
+    -o-transform: scale(1.01);
+    -ms-transform: scale(1.01);
+    -webkit-transition: all 0.1s li;
+    nea */r;
+    transition: all 0.05s linear;
+    -webkit-transition: all 0.05s linear;
+    */ -moz-transition: all 0.05s linear;
+    ;
+    */ -o-transition: all 0.05s linear;
+    -ms-transition: all 0.05s linear;
+    opacity: 0.95;
+    filter: alpha(opacity=95);
+    -ms-filter: "alpha(opacity=95)";
+}
